@@ -2,5 +2,10 @@
   "ODFI": [
   ],
   "ODGV": [
+    {
+      "num": 1000,
+      "totalPrice": 31,
+      "utxoId": "c99db327bdac2dab8d24230f5566a87ab6c07db9a2be48680819d43556f2a04ai0"
+    }
   ]
 }
