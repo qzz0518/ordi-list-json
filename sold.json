@@ -1,1 +1,18 @@
-{}
+{
+  "ODFI": [
+    {
+      "num": 100,
+      "totalPrice": 0.5,
+      "utxoId": "abcd1234abcd1234abcd1234abcd1234abcd1234",
+      "soldDate": "2023-01-01 12:00:00"
+    }
+  ],
+  "ODGV": [
+    {
+      "num": 50,
+      "totalPrice": 0.3,
+      "utxoId": "mnop3456mnop3456mnop3456mnop3456mnop3456",
+      "soldDate": "2023-02-15 12:00:00"
+    }
+  ]
+}

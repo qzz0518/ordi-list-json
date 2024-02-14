@@ -1,1 +1,46 @@
-{}
+{
+  "ODFI": [
+    {
+      "num": 100,
+      "totalPrice": 0.5,
+      "utxoId": "abcd1234abcd1234abcd1234abcd1234abcd1234"
+    },
+    {
+      "num": 50,
+      "totalPrice": 0.25,
+      "utxoId": "efgh5678efgh5678efgh5678efgh5678efgh5678"
+    },
+    {
+      "num": 50,
+      "totalPrice": 0.25,
+      "utxoId": "efgh5678efgh5678efgh5678efgh5678efgh5678"
+    },
+    {
+      "num": 1000,
+      "totalPrice": 200,
+      "utxoId": "efgh5678efgh5678efgh5678efgh5678efgh5678"
+    },
+    {
+      "num": 2000,
+      "totalPrice": 400,
+      "utxoId": "efgh5678efgh5678efgh5678efgh5678efgh5678"
+    }
+  ],
+  "ODGV": [
+    {
+      "num": 200,
+      "totalPrice": 1,
+      "utxoId": "ijkl9012ijkl9012ijkl9012ijkl9012ijkl9012"
+    },
+    {
+      "num": 300,
+      "totalPrice": 50,
+      "utxoId": "ijkl9012ijkl9012ijkl9012ijkl9012ijkl9012"
+    },
+    {
+      "num": 1200,
+      "totalPrice": 2999,
+      "utxoId": "ijkl9012ijkl9012ijkl9012ijkl9012ijkl9012"
+    }
+  ]
+}
